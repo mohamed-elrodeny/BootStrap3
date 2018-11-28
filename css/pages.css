@@ -1,0 +1,71 @@
+/* start about us */
+
+.breadcrumb-holder{
+    background-color: #f5f5f5;
+}
+.breadcrumb{
+    padding: 10px 0;
+    margin: 0;
+}
+.about-us{
+    padding: 70px 0;
+}
+.about-us h1{
+    font-family: 'Raleway', sans-serif;
+    font-size: 82px;
+}
+.about-us hr{
+    width: 70%;
+}
+.about-features{
+    padding: 0 0 70px;
+}
+.about-features h3{
+    font-family: 'Raleway', sans-serif;
+}
+.about-features p{
+    margin-bottom: 20px;
+}
+.about-sen{
+    background-color: #EEE;
+    padding-top: 40px;
+}
+.about-sen h2{
+    font-family: 'Raleway', sans-serif;
+}
+.about-sen .lead{
+    line-height: 1.8;
+}
+.about-sen .btn-primary{
+    background-color: #333;
+    border-color: #333;
+    margin-bottom: 30px;
+    display: inline-block;
+}
+/* end about us */
+
+
+/* srart FAQ Questions */
+
+.faq{
+    padding: 40px 0;
+}
+.faq h1{
+    font-family: 'Raleway', sans-serif;
+    font-size: 65px;
+}
+.faq h1 ~ hr{
+    width: 70%;
+}
+.faq-question .panel-heading{
+    padding: 20px 15px;
+}
+.faq-question .panel-heading a:after{
+    font-family: 'Glyphicons Halflings';
+    content: "\e114";
+    float: right;
+    color: #444;
+}
+
+
+/* end FAQ Questions */

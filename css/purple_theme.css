@@ -1,0 +1,36 @@
+/* start purple theme */
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.option-box .gear-check
+{
+    background-color: #951385;
+}
+
+.navbar-brand span,
+.about span,
+.testinomial span,
+.footer h3,
+.footer .copyright span
+{
+    color: #951385;
+}
+
+.testinomial .carousel-indicators li.active,
+.option-box .color-option
+{
+    border: 3px solid #951385;
+}
+
+.dropdown-menu
+{
+    border-top:3px solid #951385 ;
+}
+
+
+
+
+/* end purple theme */
